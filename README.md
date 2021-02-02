@@ -4,5 +4,5 @@ A simple chatclient+server combo made using the java.nio libraries. The JPanel l
 Originally a college project.
 
 # usage guide
-For the server, simply execute it on command line with your ip and desired port as two separate arguments.
+For the server, simply execute it on command line with your ip and desired port as two separate arguments.\n
 For the client, the available commands are /nick X, /bye, join X, /leave and /priv X Y
